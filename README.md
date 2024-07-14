@@ -1,4 +1,5 @@
 # Employee_Attrition
+
 Employee Attrition Data Analysis
 Understanding Employee Attrition: An Insightful Analysis
 Employee attrition is a critical challenge faced by many organizations today. High turnover rates not only affect the stability and productivity of a company but also incur significant costs in hiring and training new employees. To address this issue, we conducted a comprehensive attrition analysis project, diving deep into the factors influencing employee retention. Here’s a summary of our findings and the intriguing insights we discovered.
